@@ -13,16 +13,15 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url('C:/Users/offic/Desktop/text-summarizer/light.jpg'); /* Replace with your image URL */
+  background-image: url('./light.jpg'); /* Replace with your image URL */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   animation: fadeIn 1.5s ease-in-out;
 }
-
 .dark body {
   background-color: #121212; /* Dark Mode Background */
-  background-image: url('C:/Users/offic/Desktop/text-summarizer/dark.jpg'); /* Replace with your dark mode image URL */
+  background-image: url('./dark.jpg'); /* Replace with your dark mode image URL */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
